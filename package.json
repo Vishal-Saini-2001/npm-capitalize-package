@@ -1,0 +1,24 @@
+{
+  "name": "capitalize",
+  "version": "1.0.0",
+  "description": "Convert normal string into capitalized string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishal-Saini-2001/npm-capitalize-package.git"
+  },
+  "keywords": [
+    "capitalise",
+    "string",
+    "capitalise"
+  ],
+  "author": "Vishal Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishal-Saini-2001/npm-capitalize-package/issues"
+  },
+  "homepage": "https://github.com/Vishal-Saini-2001/npm-capitalize-package#readme"
+}
