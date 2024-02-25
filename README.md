@@ -1,1 +1,0 @@
-# npm-capitalize-package
